@@ -7,4 +7,4 @@ EXEC [dbo].[InsertRoleEmployee] @Name = 'AI DEV';
 EXEC [dbo].[InsertRoleEmployee] @Name = 'SOFT DEV';
 
 
-select * from Role_employee
+select * from Role_employee 
